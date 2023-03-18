@@ -12,7 +12,7 @@ To install the project, you can simply clone this repository to your local machi
 
 bash
 Copy code
-git clone https://github.com//linkedin-clone.git
+git clone https://ngash01.github.io/LinkedIn-Clone/
 Then, navigate to the project directory and install the required dependencies using npm:
 
 bash
