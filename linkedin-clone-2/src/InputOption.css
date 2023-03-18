@@ -1,0 +1,19 @@
+.InputOption{
+  display: flex;
+  align-items: center;
+  margin-top: 14px;
+  padding: 7px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.InputOption__title{
+  font-weight: lighter;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 15px;
+  padding-left: 5px;
+}
+
+.InputOption:hover{
+  background-color: whitesmoke;
+}

@@ -1,0 +1,7 @@
+.app__body{
+  background-color: lightgray;
+  display: flex;
+  padding-top: 20px;
+  padding-left: 30px;
+}
+

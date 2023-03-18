@@ -1,0 +1,95 @@
+
+
+.post1 {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 11px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+.post2 {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 11px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+.post3 {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 11px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+
+}
+
+.post4 {
+  background-color: white;
+  padding: 15px;
+  margin-bottom: 11px;
+  border-radius: 10px;
+  margin-bottom: 25px;
+
+}
+
+.post__header{
+  display: flex;
+  margin-bottom: 10px;
+
+}
+
+.post__info{
+  margin-left: 10px;
+}
+
+.post__info p{
+  font-size: 12px;
+  color: gray;
+}
+
+.post__message{
+  overflow-wrap: anywhere;
+  margin-top: 10px;
+}
+
+.post__message img{
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.post__timeline{
+  display: flex;
+  color: gray;
+  align-items: center;
+}
+
+.post__timeline p{
+  padding-right: 4px;
+}
+
+.post__timeline .timer{
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.post__timeline .icon{
+  height: 16px;
+  margin-left: -4px;
+  color: rgb(44, 43, 43);
+}
+
+.post__message{
+  font-family: A;
+  font-size: 16px;
+  font-weight: 500;
+  color: rgb(77, 75, 75);
+  padding-bottom: 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+.post__reactions{
+  display: flex;
+  justify-content: space-evenly;
+}
