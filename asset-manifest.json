@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LinkedInClone/static/css/main.288ae642.css",
+    "main.js": "/LinkedInClone/static/js/main.c1a4c18c.js",
+    "index.html": "/LinkedInClone/index.html",
+    "main.288ae642.css.map": "/LinkedInClone/static/css/main.288ae642.css.map",
+    "main.c1a4c18c.js.map": "/LinkedInClone/static/js/main.c1a4c18c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288ae642.css",
+    "static/js/main.c1a4c18c.js"
+  ]
+}
